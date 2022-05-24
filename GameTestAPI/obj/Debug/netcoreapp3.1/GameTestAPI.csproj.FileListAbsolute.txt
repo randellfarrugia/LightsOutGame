@@ -1,0 +1,89 @@
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.csprojAssemblyReference.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.AssemblyInfoInputs.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.AssemblyInfo.cs
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.exe
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.deps.json
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.runtimeconfig.json
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.runtimeconfig.dev.json
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.pdb
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\GameTestAPI.StaticWebAssets.Manifest.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\GameTestAPI.StaticWebAssets.xml
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\GameTestAPI.styles.css
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.csproj.CopyComplete
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.pdb
+C:\Users\Randell.Farrugia\Desktop\GameTest\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.genruntimeconfig.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.exe
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.deps.json
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.runtimeconfig.json
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.runtimeconfig.dev.json
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\GameTestAPI.pdb
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.AssemblyInfoInputs.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.AssemblyInfo.cs
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\staticwebassets\GameTestAPI.StaticWebAssets.Manifest.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.csproj.CopyComplete
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.dll
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.pdb
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.genruntimeconfig.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.csproj.AssemblyReference.cache
+C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTestAPI\obj\Debug\netcoreapp3.1\GameTestAPI.GeneratedMSBuildEditorConfig.editorconfig

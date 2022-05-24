@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fc7caeb-e3ec-4a56-97e2-86861712cbdc": {
+      "ProjectGuid": "9fc7caeb-e3ec-4a56-97e2-86861712cbdc",
+      "DisplayName": "GameTest",
+      "ColorIndex": 0
+    },
+    "e17b4b2b-9dbf-47c9-aa2b-d462fa9d259e": {
+      "ProjectGuid": "e17b4b2b-9dbf-47c9-aa2b-d462fa9d259e",
+      "DisplayName": "GameTestAPI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
