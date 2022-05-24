@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QneKDdRdUp4qgpHVpgKclqLdBnNBqEeDst3A293Ez2l1hd+d71r/YOyIGxm/NBYzUk5mlFIQNZVHwwGFOBed9w==",
+  "dgSpecHash": "CB+clr6O2Xh0RMERH8ESnhRe3ofKqBavahmtiXWY95BFAQsCYRW+UqQuHM0gL1bzn/3WWaTwsxe+DMYdFGrVSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\GameTestAPI\\GameTestAPI.csproj",
+  "projectFilePath": "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\NewGameTest\\GameTestAPI\\GameTestAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Randell.Farrugia\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Randell.Farrugia\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

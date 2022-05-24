@@ -68,3 +68,38 @@ C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTest\o
 C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTest\obj\Debug\GameTest.pdb
 C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTest\obj\Debug\GameTest.csproj.AssemblyReference.cache
 C:\Users\Randell.Farrugia\Desktop\GameTest\Randell Farrugia Game Test\GameTest\obj\Debug\GameTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\GameTest.exe
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\GameTest.pdb
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\Google.Protobuf.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\MySql.Data.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.Buffers.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.Memory.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\ZstdNet.dll
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\Google.Protobuf.pdb
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\Google.Protobuf.xml
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\MySql.Data.xml
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.Buffers.xml
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.Memory.xml
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.csprojAssemblyReference.cache
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.Game.resources
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.cache
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.csproj.CoreCompileInputs.cache
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.csproj.CopyComplete
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.exe
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.pdb

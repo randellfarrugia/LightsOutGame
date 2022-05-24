@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\GameTestAPI\\GameTestAPI.csproj": {}
+    "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\NewGameTest\\GameTestAPI\\GameTestAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\GameTestAPI\\GameTestAPI.csproj": {
+    "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\NewGameTest\\GameTestAPI\\GameTestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\GameTestAPI\\GameTestAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\NewGameTest\\GameTestAPI\\GameTestAPI.csproj",
         "projectName": "GameTestAPI",
-        "projectPath": "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\GameTestAPI\\GameTestAPI.csproj",
+        "projectPath": "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\NewGameTest\\GameTestAPI\\GameTestAPI.csproj",
         "packagesPath": "C:\\Users\\Randell.Farrugia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\GameTestAPI\\obj\\",
+        "outputPath": "C:\\Users\\Randell.Farrugia\\Desktop\\Github\\NewGameTest\\GameTestAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Randell.Farrugia\\AppData\\Roaming\\NuGet\\NuGet.Config",

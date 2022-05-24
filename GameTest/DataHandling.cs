@@ -35,12 +35,12 @@ namespace GameTest
                 }
                 catch
                 {
-                    parameters = new Params() { SwitchedOnColour = DefaultSwitchedOnColour, SwitchedOffColour = DefaultSwitchedOffColour, NumberOfLightsOn = DefaultNumberOfLightsSwitchedOn };
+                    parameters = new Params() { SwitchedOnColour = DefaultSwitchedOnColour, SwitchedOffColour = DefaultSwitchedOffColour, NumberOfLightsOn = DefaultNumberOfLightsSwitchedOn, BoardSize = DefaultBoardSize };
                 }
             }
             else
             {
-                parameters = new Params() { SwitchedOnColour = DefaultSwitchedOnColour, SwitchedOffColour = DefaultSwitchedOffColour, NumberOfLightsOn = DefaultNumberOfLightsSwitchedOn };
+                parameters = new Params() { SwitchedOnColour = DefaultSwitchedOnColour, SwitchedOffColour = DefaultSwitchedOffColour, NumberOfLightsOn = DefaultNumberOfLightsSwitchedOn, BoardSize = DefaultBoardSize };
             }
 
             return parameters;
