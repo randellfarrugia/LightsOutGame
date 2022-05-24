@@ -96,7 +96,7 @@ namespace GameTest
             SwitchSingleButton(CurrentButton);
 
             List<int> leftButtonsList = new List<int>();
-            for (int i = 1; i <= (BoardSize * BoardSize); i += 5)
+            for (int i = 1; i <= (BoardSize * BoardSize); i += BoardSize)
             {
                 leftButtonsList.Add(i);
             }

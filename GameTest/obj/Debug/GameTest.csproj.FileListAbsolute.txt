@@ -95,7 +95,6 @@ C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.B
 C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.Memory.xml
 C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.csprojAssemblyReference.cache
 C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.Game.resources
 C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
 C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.cache
@@ -103,3 +102,4 @@ C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest
 C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.csproj.CopyComplete
 C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.exe
 C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.pdb
+C:\Users\Randell.Farrugia\Desktop\Github\NewGameTest\GameTest\obj\Debug\GameTest.csproj.SuggestedBindingRedirects.cache
